@@ -2,14 +2,14 @@
 
 ## This includes:
 
-. About me page
+1. About me page
 
 live preview on;
 github pages => 
 
 vercel =>
 
-. AltSchool Regestration page clone
+2. AltSchool Regestration page clone
 
 live preview on;
 github pages => 
