@@ -5,6 +5,7 @@
 ### 1. About me page
 
 live preview on;
+
 github pages => 
 
 vercel =>
@@ -12,6 +13,7 @@ vercel =>
 ### 2. AltSchool Regestration page clone
 
 live preview on;
+
 github pages => 
 
 vercel =>
